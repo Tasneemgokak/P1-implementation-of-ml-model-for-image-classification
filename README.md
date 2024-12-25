@@ -14,8 +14,7 @@ This repository contains a Streamlit application that allows users to classify i
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository_url>
-   Create a virtual environment (recommended):
+   git clone https://github.com/Tasneemgokak/P1-implementation-of-ml-model-for-image-classification.git
    ```
 
 This isolates your project's dependencies from your system's Python installation.
